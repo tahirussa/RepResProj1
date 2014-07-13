@@ -1,4 +1,3 @@
 RepResProj1
 ===========
-
-Reproducible Research Project One
+This resository is for RR Project one.
